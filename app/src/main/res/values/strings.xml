@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tiket.com</string>
+    <string name="title_activity_flight_main">FlightMainActivity</string>
+    <string name="title_activity_flight_search">FlightSearchActivity</string>
+</resources>
